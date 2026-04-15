@@ -11,5 +11,5 @@
 ### The block length can be adjusted in the "subsample.sh" file.
 
 ### For isotropy test:
-### Run the .slurm file directly.
+### Run the .sh file directly.
 ### Parameters can be modified in the corresponding .R file.
