@@ -10,6 +10,6 @@
 ### Process parameters, lag settings, and bandwidths are specified in the .R file.
 ### The block length can be adjusted in the "subsample.sh" file.
 
-### For isotropy code:
+### For isotropy test:
 ### Run the .slurm file directly.
 ### Parameters can be modified in the corresponding .R file.
